@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Destiny Kevin</h1>
-<h2 align="center">I am a Data Analyst</h3>
+<h2 align="center">I am a Data Specialist</h3>
 
-<p align="center"> I am a problem solver. I build data dashboards. I seek to leverage my analytical mind to perform analysis on raw data so as to communicate insights. Python, Excel, PowerBI & MySQL are my special tools. </p>
+<p align="center"> I am a problem solver. I focused on improving my skills on Data Analysis and Data Entry.  I build data dashboards. I seek to leverage my analytical mind to perform analysis on raw data so as to communicate insights. Python, Excel, PowerBI & MySQL are my special tools. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevdes22&label=Profile%20views&color=0e75b6&style=flat" alt="kevdes22" /> </p>
 
